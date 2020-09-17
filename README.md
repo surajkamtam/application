@@ -1,3 +1,3 @@
-# application
+# React Pokedox Application
 
 ## Subheader
